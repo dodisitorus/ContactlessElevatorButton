@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Contactless Elevator Button</string>
+    <string name="logout">Logout</string>
+    <string name="search">Search</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="is_off">IS OFF</string>
+    <string name="up_direction">UP DIRECTION</string>
+    <string name="is_on">IS ON</string>
+    <string name="down_direction">DOWN DIRECTION</string>
+    <string name="guide_direction_lock">Turn ON/OFF elevator direction permission</string>
+    <string name="select_remote_direction">Select the elevator direction that you want to go.</string>
+    <string name="remote_control">Remote Control</string>
+    <string name="setting_direction">Permission Control</string>
+    <string name="down">Down</string>
+    <string name="up">Up</string>
+</resources>
