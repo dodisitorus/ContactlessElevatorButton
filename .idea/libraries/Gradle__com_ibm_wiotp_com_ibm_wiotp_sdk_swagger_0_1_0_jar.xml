@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ibm.wiotp:com.ibm.wiotp.sdk.swagger:0.1.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.wiotp/com.ibm.wiotp.sdk.swagger/0.1.0/c297c671d9c09db3c3965351888d5192a75a5267/com.ibm.wiotp.sdk.swagger-0.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.wiotp/com.ibm.wiotp.sdk.swagger/0.1.0/bd2de6eaf580895d841252a332174d8b3b2e3818/com.ibm.wiotp.sdk.swagger-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

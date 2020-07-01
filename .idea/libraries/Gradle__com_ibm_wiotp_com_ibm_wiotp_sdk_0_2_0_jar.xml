@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ibm.wiotp:com.ibm.wiotp.sdk:0.2.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.wiotp/com.ibm.wiotp.sdk/0.2.0/746c26a8109509964bac2f8d4dd0c0f05c660856/com.ibm.wiotp.sdk-0.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.wiotp/com.ibm.wiotp.sdk/0.2.0/c8f9bc52df0e97fd04b5276ff0c7797cab52c9b1/com.ibm.wiotp.sdk-0.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
