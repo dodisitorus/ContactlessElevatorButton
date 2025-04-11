@@ -1,11 +1,29 @@
-Android app prototype connected to IoT hardware (Raspberry Pi)
+# 🛗 ContactlessElevatorButton  
+An Android app prototype connected to **IoT hardware (Raspberry Pi)**
 
-A contactless elevator control system using a mobile app to reduce physical touchpoints in public spaces. The app communicates with a Raspberry Pi to send floor selection commands wirelessly.
+---
 
-📱 Built with Java and MVVM architecture
+## 🚀 About  
+A contactless elevator control system using a mobile app to reduce physical touchpoints in public spaces.  
+The app communicates wirelessly with a **Raspberry Pi** to send floor selection commands.
 
-🔌 Communicates with Raspberry Pi via Wi-Fi
+---
 
-🧠 Enables safer, hands-free elevator interaction
+## 🔧 Tech Stack  
+- **Language**: Java  
+- **Architecture**: MVVM  
+- **IoT Platform**: Raspberry Pi  
+- **Communication**: Wi-Fi  
 
-🧪 Focus on hygiene, automation, and IoT integration
+---
+
+## ✨ Features  
+- Contactless floor selection  
+- Real-time communication with Raspberry Pi  
+- Designed for hygiene and safety  
+- Demonstrates mobile–IoT integration  
+
+---
+
+## 📄 License  
+This is a prototype/example project created for educational and experimental purposes.
